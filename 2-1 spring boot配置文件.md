@@ -132,5 +132,7 @@ spring.profiles.active=dev
 3. java系统属性，即System.getProperties()获得的内容
 4. 操作系统环境变量
 
+优先级从高到低
+
 
 
